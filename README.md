@@ -14,7 +14,7 @@ A galeria foi criada para proporcionar uma experiência envolvente e inspiradora
 
 ## Projeto Funcionando
 
-https://github.com/M4deN/Drawing-Gallery/assets/43422425/f382c999-b1a9-4736-a1bd-4633d5dfdebe
+https://github.com/M4deN/Drawing-Gallery/assets/43422425/b32d3df1-fa6e-44a4-9046-1773a11449ef
 
 ## Instalação e Uso
 
